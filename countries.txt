@@ -182,6 +182,10 @@ EUROPE:(
             Ideology - the most generic NPC nation, nothing unique
             lorem ipsum...
         )
+        Two Sicilies(
+            The Kingdom of Two Sicilies
+            Ideology - neo-absolutism
+        )
     )
     Northern Europe:(
         THE HORDE(
@@ -232,26 +236,48 @@ AFRICA:(
     )
     Kraina Papieru(
         Ideology - używają papieru...w militariach
+        kraina pepieru lore.png
+    )
+    Kraina Grzybów(
+        Ideology - smile guide
+        Relations - allies with kraina papieru
     )
 )
 NORTH AMERICA:(
     Ubuntu(
         Ideology - linux
+        see #007
     )
     Kali(
         Ideology - linux
+        see #007
     )
     Arch Linux(
         Ideology - linux
+        see #007
     )
     Temple OS(
         Ideology - linux
+        see #007
     )
     Tails(
         Ideology - linux
+        see #007
     )
     Red Hat(
         Ideology - linux
+        see #007
+    )
+    New Neighborville(
+        Ideology - plantism, sun based economy
+        relations - rivals with zombie nation
+    )
+    Zombie Nation(
+        Ideology - zombieism, dr zomboss thought
+        relations - rivals with new neighborville
+    )
+    Kingdom of Equestria(
+        Ideology - mlpism
     )
 )
 
@@ -274,6 +300,5 @@ NORTH AMERICA:(
 #006 northern forts
     the northern european countries were much more sucessful in building a fort line against the horde, mainly due to magic help from the wizards and gnomes who joined forces to build it.
     as a result the wall stopped furthern horde expansion in the region
-
-
-TODO: equestria, plants nation, zombies nation, kraina grzybów
+see #007 linux
+    united linux nation was formed but quickly fell apart becasue of conflicts between different distributions, all linux states are fighting each other for domination
