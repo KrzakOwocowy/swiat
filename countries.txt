@@ -279,11 +279,26 @@ NORTH AMERICA:(
     Kingdom of Equestria(
         Ideology - mlpism
     )
+    Jregoria(
+        Ideology - bolnaz, anticentrism
+    )
 )
 SOUTH AMERICA:(
     Nowa Matysówka(
         Ideology - filip maism
         24/7 hustle, no jews or black people, obligatory gym
+    )
+    Kendom(
+        Ideology - barbieism-kenism
+        relations - allied with nowa matysówka
+    )
+    Queertopia(
+        Ideology - queer ethnostate
+        straight people are put into concentration camps
+    )
+    IB Kingdom(
+        Ideology - International Baccalaureate constitutional monarchy
+        relations - rival with nowa matysówka
     )
 )
 
