@@ -280,6 +280,12 @@ NORTH AMERICA:(
         Ideology - mlpism
     )
 )
+SOUTH AMERICA:(
+    Nowa Matysówka(
+        Ideology - filip maism
+        24/7 hustle, no jews or black people, obligatory gym
+    )
+)
 
 #001 Carpsys race hierarchy:
     Master Race - North Carpathians
