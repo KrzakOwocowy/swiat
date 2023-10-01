@@ -186,6 +186,15 @@ EUROPE:(
             The Kingdom of Two Sicilies
             Ideology - neo-absolutism
         )
+        6-sta RP(
+            szósta rzeczpospolita polska, 6th polish republic
+            Ideology - alcocracy, rule of alkoholics
+        )
+        EITZ(
+            experimental ideology testing zone
+            Ideology - puzzle piece politics
+            everyone who applies gets their own piece of land to test their ideology on (wars between neighbors are constant)
+        )
     )
     Northern Europe:(
         THE HORDE(
@@ -226,6 +235,9 @@ EUROPE:(
         )
         New Tangier(
             Ideology - Naked Lunch
+        )
+        Lys Noir Kingdom(
+            Ideology - Lys Noir
         )
     )
 )
